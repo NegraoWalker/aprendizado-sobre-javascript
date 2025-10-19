@@ -1,6 +1,0 @@
-// COMENTÁRIO
-/*
-    COMENTÁRIO 1,
-    COMENTÁRIO 2,
-    COMENTÁRIO 3
- */
