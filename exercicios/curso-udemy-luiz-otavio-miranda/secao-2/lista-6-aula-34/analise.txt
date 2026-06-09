@@ -1,0 +1,4 @@
+1. Criar o formulário no HTML.
+2. Alinhar e deixar mais correto visualmente com CSS o formulário.
+3. Capturar os valores dos campos e salvar em um array de objetos usando JavaScript.
+4. Exibir na tela os dados do array.
