@@ -1,0 +1,17 @@
+- Calculo do IMC de uma pessoa:
+    - Informar peso;
+    - Informar altura;
+- frontend e backend:
+    - Tela inicial:
+        - Texto sobre o IMC - Resultado para pessoa se basear pelo valor
+        1. Campo para digitar o peso;
+        2. Campo para digitar a altura;
+        3. Botão para calcular;
+    - Tela final:
+        - Exibir o valor do IMC abaixo do botão calcular - no valor do IMC retornado deve mostrar a categoria 
+          (Exemplo: IMC = 24.69 - Peso normal -> De acordo com o padrão definido);
+        - Criar validações:
+            - Se a pessoa não digitar peso ou altura exibir: Informe o valor do peso ou altura ou algo do tipo
+            - Se a pessoa digitar peso ou altura invalidos exibir: Peso ou altura invalidos
+
+- Usar o modelo disponibilizado pelo professor
