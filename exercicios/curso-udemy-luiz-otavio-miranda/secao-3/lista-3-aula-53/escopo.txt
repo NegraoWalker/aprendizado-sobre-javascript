@@ -1,0 +1,1 @@
+Exibir na tela o conteudo do array do arquivo main.js. O conteúdo deve ser exibido abaixo da tag h1 do index.html. Obrigatório usar o loop for.

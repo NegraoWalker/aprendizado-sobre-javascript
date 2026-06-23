@@ -1,0 +1,7 @@
+1 - Selecionar o elemento section no DOM;
+2 - Criar um loop for para percorrer cada item do array elementos;
+3 - Dentro do loop, para cada item:
+    - Extrair a propriedade tag e a propriedade texto;
+    - Criar um elemento HTML usando a tag extraída;
+    - Definir o conteúdo de texto do elemento criado com o texto extraído;
+    - Adicionar o elemento criado como filho do section;
