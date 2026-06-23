@@ -1,0 +1,4 @@
+1 - Preciso criar/instanciar uma data atual;
+2 - Preciso extrair o dia, mês, ano, hora, minutos;
+3 - Preciso formatar os dados extraidos para o padrão pt-br;
+4 - Preciso exibir o formato pt-br na tela;

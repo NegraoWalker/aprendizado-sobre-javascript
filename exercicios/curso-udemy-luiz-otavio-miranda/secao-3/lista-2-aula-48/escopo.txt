@@ -1,0 +1,1 @@
+Exibir na tela a data no seguinte formato: segunda-feira, 7 de outubro de 2019 22:52
